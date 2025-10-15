@@ -79,50 +79,11 @@ Classe **principal** responsável por:
 
 ## ☕︎︎ Exemplos (Saída do Console)
 
-### `Entrada`:
+<img width="969" height="723" alt="Captura de tela 2025-10-15 182353" src="https://github.com/user-attachments/assets/6a452caf-7cd1-4b12-8eeb-3e8878ac98c7" />
 
-```
-5 5
-@ @ @ @ @
-@ @ @ @ @
-@ @ @ @ @
-@ @ @ @ @
-@ @ @ @ @
-0 0 1 0 0
-1 0 0 0 0
-1 0 1 0 0
-0 1 0 1 0
-0 0 0 0 0
-1
+<img width="968" height="728" alt="Captura de tela 2025-10-15 182618" src="https://github.com/user-attachments/assets/b4501898-a79b-4f5b-9969-64521efb2f53" />
 
-```
-
-### `Saída:`
-
-```
-. . . . . . .     
-. . . @ . . . 
-. @ . . . . . 
-. @ . @ . . . 
-. . @ . @ . . 
-. . . . . . . 
-. . . . . . .
-
-```
-
-### `Pós Iteração:`
-
-```
-
-. . . . . . . 
-. . . . . . . 
-. . . . . . . 
-. @ . @ . . . 
-. . @ . . . . 
-. . . . . . . 
-. . . . . . . 
-
-```
+<img width="966" height="721" alt="Captura de tela 2025-10-15 182638" src="https://github.com/user-attachments/assets/c327be62-fff3-40fc-b238-b5588d97c703" />
 
 Cada célula é representada por um caractere:
 - `'@'`: célula viva;
