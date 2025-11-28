@@ -105,7 +105,7 @@ Cada célula é representada por um caractere:
 
 Desenvolvido por:
 
-- [Luna](https://github.com/LaceBean)
+- [Luna](https://github.com/Luna-Osti)
 - [Maria Rita](https://github.com/MariaCampanaP)
 - [Vallentina](https://github.com/Vallentinanina)
 
